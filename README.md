@@ -1,2 +1,2 @@
-# astar-pathfinding-algorythm
+# astar-pathfinding-algorithm
  
